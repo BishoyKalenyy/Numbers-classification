@@ -1,2 +1,3 @@
 # Numbers-classification
-Handwritten digits classification using neural network
+Handwritten digits classification using neural network <br/>
+This mini projects is part of AI coursework and it aims to classify handwritten numbers using neural networks
